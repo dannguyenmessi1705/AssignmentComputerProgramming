@@ -2,7 +2,8 @@
 ## Giới thiệu
 Một project dùng để thực hiện các thao tác quản lý File Khách hàng như đọc thông tin, tìm kiến thông tin, thêm thông tin cũng như sắp xếp, lọc các thông tin của khách hàng từ File data.txt.
 > Project được viết bằng ngôn ngữ C++, vui lòng cài môi trường biên dịch của C++ trước khi chạy project.
-
+## Download
+[![Download](https://img.shields.io/badge/Download-Here-yellow)](https://github.com/dannguyenmessi1705/AssignmentComputerProgramming/files/9982272/AssignmentProject.zip)
 ## Hướng dẫn
 ### Cài môi trường để chạy file C++
 [![Guide](https://img.shields.io/badge/Guide-C%2B%2B-green)](https://codelearn.io/sharing/cai-vscode-lap-trinh-cpp-de-nhat)
@@ -12,7 +13,7 @@ Vui lòng click chuột vào file Run để chạy project.
 ### Đăng nhập tài khoản vào hệ thống để chạy project
 Sau khi chạy project, màn hình console sẽ hiển thị yêu cầu người dùng nhập user và password. Muốn đăng nhập vào người dùng cần nhập:
 - User: admin
-- Password: Giờ phút ngày tháng năm hiện tại (VD: 14:20 30/1/2030 => Password: 14203012030)
+- Password: Giờ phút ngày tháng năm hiện tại (VD: 14:20 30/1/2030 => Password: 142030012030)
 ### Sử dụng tool
 > Các chức năng của tool sẽ được hiển thị trong từng mục Menu ở trong project. Người dùng cần đọc rõ chỉ dẫn để thực hiện đúng các lệnh chính xác. 
 ## Giúp đỡ
