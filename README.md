@@ -7,8 +7,11 @@ Một project dùng để thực hiện các thao tác quản lý File Khách h�
 > Click vào biểu tượng trên để tải xuống project
 ## Hướng dẫn
 ### Cài môi trường để chạy file C++
-[![Guide](https://img.shields.io/badge/Guide-C%2B%2B-green)](https://codelearn.io/sharing/cai-vscode-lap-trinh-cpp-de-nhat)
-> Click vào biểu tượng trên để xem hướng dẫn. Chỉ cần làm từ bước 1 đến bước 3 trong bài hướng dẫn là được rồi.
+[![Guide](https://img.shields.io/badge/Guide-C%2B%2B-green)](https://codelearn.io/sharing/cai-vscode-lap-trinh-cpp-de-nhat) [![Download](https://img.shields.io/badge/Download-MinGW-yellow)](https://mega.nz/file/Yst3xBLa#NlHoXHnCvibkYj0mjD1uoHMkmCQ97KSdEWYAXswjOyA) 
+- Tải MinGW C++ bằng việc click vào nút Download để có thể cài trình biên dịch cho C++.
+> Tải xong vui lòng giải nén nó vào ổ C:\
+- Click vào biểu tượng trên để xem hướng dẫn cài môi trường. Chỉ cần làm bước 3 trong bài hướng dẫn là được rồi.
+> Nếu đã tải và giải nén MinGW ở bước trên rồi thì bỏ qua phần download ở bài viết hướng dẫn. Nên tải ở đây vì trong bài hướng dẫn link có thể sẽ bị lỗi.
 ### Chạy project
 Vui lòng click chuột vào file RunMe để chạy project. Hoặc bạn có thể download sourcecode rồi tự biên dịch
 ### Đăng nhập tài khoản vào hệ thống để chạy project
