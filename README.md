@@ -10,7 +10,7 @@ Một project dùng để thực hiện các thao tác quản lý File Khách h�
 [![Guide](https://img.shields.io/badge/Guide-C%2B%2B-green)](https://codelearn.io/sharing/cai-vscode-lap-trinh-cpp-de-nhat)
 > Click vào biểu tượng trên để xem hướng dẫn. Chỉ cần làm từ bước 1 đến bước 3 trong bài hướng dẫn là được rồi.
 ### Chạy project
-Vui lòng click chuột vào file Run để chạy project.
+Vui lòng click chuột vào file RunMe để chạy project.
 ### Đăng nhập tài khoản vào hệ thống để chạy project
 Sau khi chạy project, màn hình console sẽ hiển thị yêu cầu người dùng nhập user và password. Muốn đăng nhập vào người dùng cần nhập:
 - User: admin
