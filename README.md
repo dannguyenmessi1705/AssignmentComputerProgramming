@@ -13,7 +13,10 @@ Một project dùng để thực hiện các thao tác quản lý File Khách h�
 - Click vào biểu tượng trên để xem hướng dẫn cài môi trường. Chỉ cần làm bước 3 trong bài hướng dẫn là được rồi.
 > Nếu đã tải và giải nén MinGW ở bước trên rồi thì bỏ qua phần download ở bài viết hướng dẫn. Nên tải ở đây vì trong bài hướng dẫn link có thể sẽ bị lỗi.
 ### Chạy project
-Vui lòng click chuột vào file RunMe để chạy project. Hoặc bạn có thể download sourcecode rồi tự biên dịch
+- C1: Nếu tải file Program.exe, thì chỉ cần tắt Virus rồi chạy thẳng file đó. Khi chạy thì file data.txt sẽ hiện ra.
+- C2: Tải file sourcecode.zip, giải nén ra rồi chạy file RunMe trong thư mục src, hoặc các bạn có thể tự biên dịch ^^
+> Link download ở phía trên nha
+
 ### Đăng nhập tài khoản vào hệ thống để chạy project
 Sau khi chạy project, màn hình console sẽ hiển thị yêu cầu người dùng nhập user và password. Muốn đăng nhập vào người dùng cần nhập:
 - User: admin
